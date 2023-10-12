@@ -19,5 +19,4 @@ Join us as we push the boundaries of what's possible with the Scamp-5 vision chi
 
 ---
 
-**Note**: Remember to replace `link_to_a_relevant_image_here.jpg` with a direct link to a relevant image or diagram that represents the Scamp-5 vision chip or your project visually. If you're hosting on GitHub, you can add images to your repository and link them directly.
 
